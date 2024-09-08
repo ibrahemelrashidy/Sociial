@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8498177932",
+    "project_id": "devark-8d4c2",
+    "storage_bucket": "devark-8d4c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8498177932:android:849fcf32c37cb59ad518a9",
+        "android_client_info": {
+          "package_name": "com.DevArk.socialappwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOohIEBnXo2EhyELK8NhWMOEIY-sTy568"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8498177932:android:b2f5fc4f5cfb3998d518a9",
+        "android_client_info": {
+          "package_name": "com.example.socialappwithfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOohIEBnXo2EhyELK8NhWMOEIY-sTy568"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
